@@ -1,8 +1,6 @@
-# Nama Repo Anda
+# $MOG PAPER - 1.0
 
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=URL_KE_PDF" width="100%" height="500px">
+![MOG Mascot](Assets/preview.png)
 
-[📄 Download PDF](Mog-Paper.pdf)
-
-### Preview
-![Preview halaman pertama](preview.png)
+## BE A FUCKING WINNER.
+## WIN AT EVERYTHING YOU DO.
