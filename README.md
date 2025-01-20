@@ -1,5 +1,8 @@
 # Nama Repo Anda
 
-📄 [Baca MOG Paper](mog-paper.pdf)
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=URL_KE_PDF" width="100%" height="500px">
 
-// ... isi README lainnya ... 
+[📄 Download PDF](Mog-Paper.pdf)
+
+### Preview
+![Preview halaman pertama](preview.png)
